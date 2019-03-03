@@ -234,14 +234,11 @@ section .controlls .kind .item.on .on {
 section .controlls .kind .item.on .off {
   width: 0%;
 }
-section .controlls iframe.video {
-  background: #000;
-  border: none;
-  border-radius: 5px;
-  width: 350px;
-  height: 200px;
-  max-width: 100%;
-}
+
+
+
+
+
 .glass {
   position: fixed;
   width: 100%;
